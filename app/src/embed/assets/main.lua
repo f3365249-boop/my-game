@@ -431,3 +431,4 @@ function moveEnemies(pdx, pdy)
         if e.x == player.x and e.y == player.y then triggerDeath(e) end
     end
 end
+
